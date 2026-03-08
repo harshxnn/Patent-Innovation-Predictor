@@ -10,9 +10,7 @@ This system analyzes patent data to identify trends and predict future innovatio
 
 ## System Architecture
 
-```
-![Alt Text](images/system_architechture.png)
-```
+![System Architecture Diagram](images/system_architecture.png)
 
 ## Prerequisites
 
