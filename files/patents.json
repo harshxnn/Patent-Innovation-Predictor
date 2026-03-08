@@ -1,0 +1,376 @@
+[
+    {
+        "position": 1,
+        "rank": 0,
+        "patent_id": "patent/CN119480895B/en",
+        "patent_link": "https://patents.google.com/patent/CN119480895B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119480895B%2Fen",
+        "title": "Electrode assemblies, battery cells, batteries, and electrical devices",
+        "snippet": "In the present application, the battery cells may include a lithium ion secondary battery cell, a lithium ion primary battery cell, a lithium sulfur battery cell, a sodium lithium ion battery cell, a sodium ion battery cell, or a magnesium ion battery cell, which is not limited in the embodiment of \u2026",
+        "priority_date": "2021-02-04",
+        "filing_date": "2021-02-04",
+        "grant_date": "2025-12-05",
+        "publication_date": "2025-12-05",
+        "inventor": "\u5510\u5f6c\u6770",
+        "assignee": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "publication_number": "CN119480895B",
+        "language": "en",
+        "country_status": {
+            "WO": "NOT_ACTIVE",
+            "EP": "ACTIVE",
+            "US": "ACTIVE",
+            "CN": "ACTIVE",
+            "HU": "UNKNOWN"
+        }
+    },
+    {
+        "position": 2,
+        "rank": 1,
+        "patent_id": "patent/EP4207358A3/en",
+        "patent_link": "https://patents.google.com/patent/EP4207358A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4207358A3%2Fen",
+        "title": "Lithium secondary batteries",
+        "snippet": "The invention provides a lithium secondary battery including an ionic provider added to the positive electrode. The ionic provider does not involve in the electrochemical reaction of the lithium secondary battery during charging and discharging. The ionic provider can absorb thermal energy caused \u2026",
+        "priority_date": "2022-01-04",
+        "filing_date": "2022-12-20",
+        "publication_date": "2023-07-12",
+        "inventor": "Szu-Nan Yang",
+        "assignee": "Prologium Technology Co., Ltd.",
+        "publication_number": "EP4207358A3",
+        "language": "en",
+        "pdf": "https://patentimages.storage.googleapis.com/fd/6d/bc/d854352a610c40/EP4207358A3.pdf",
+        "country_status": {
+            "EP": "ACTIVE",
+            "US": "ACTIVE",
+            "CN": "ACTIVE",
+            "JP": "ACTIVE",
+            "KR": "ACTIVE",
+            "TW": "ACTIVE"
+        }
+    },
+    {
+        "position": 3,
+        "rank": 2,
+        "patent_id": "patent/PL4293783T3/en",
+        "patent_link": "https://patents.google.com/patent/PL4293783T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPL4293783T3%2Fen",
+        "title": "NON-AQUEOUS ELECTROLYTE SOLUTION FOR A RECHARGEABLE LITHIUM BATTERY AND A \u2026",
+        "priority_date": "2021-09-14",
+        "filing_date": "2022-09-14",
+        "publication_date": "2025-06-09",
+        "inventor": "Sol Ji PARK",
+        "assignee": "Lg Energy Solution Ltd.",
+        "publication_number": "PL4293783T3",
+        "language": "en",
+        "country_status": {
+            "WO": "NOT_ACTIVE",
+            "EP": "ACTIVE",
+            "US": "ACTIVE",
+            "CN": "ACTIVE",
+            "JP": "ACTIVE",
+            "KR": "ACTIVE",
+            "CA": "ACTIVE",
+            "ES": "ACTIVE",
+            "HU": "UNKNOWN",
+            "PL": "UNKNOWN"
+        }
+    },
+    {
+        "position": 4,
+        "rank": 3,
+        "patent_id": "patent/US10700376B2/en",
+        "patent_link": "https://patents.google.com/patent/US10700376B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10700376B2%2Fen",
+        "title": "Methods for fast-charging and detecting lithium plating in lithium ion batteries",
+        "snippet": "1. Method for fast-charging a lithium battery, wherein the lithium battery comprises an anode, a cathode electrically connected to the anode via a circuit, and a lithium ion-containing electrolyte in contact with the anode and the cathode, and wherein the lithium battery is charged by directing \u2026",
+        "priority_date": "2017-07-31",
+        "filing_date": "2017-07-31",
+        "grant_date": "2020-06-30",
+        "publication_date": "2020-06-30",
+        "inventor": "Brian J. Koch",
+        "assignee": "GM Global Technology Operations LLC",
+        "publication_number": "US10700376B2",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/16/6f/89/683a9824e7c3f4/US10700376-20200630-D00001.png",
+        "pdf": "https://patentimages.storage.googleapis.com/21/a2/e1/89b23e6aa9f3e4/US10700376.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/a4/f3/89/b29deac8926129/US10700376-20200630-D00001.png",
+                "full": "https://patentimages.storage.googleapis.com/73/25/15/237c4ca5d2e307/US10700376-20200630-D00001.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/51/97/b3/7903d7dd3fd490/US10700376-20200630-D00002.png",
+                "full": "https://patentimages.storage.googleapis.com/54/b1/6c/6d6d1dce05884d/US10700376-20200630-D00002.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/79/b8/7f/1cf6a58287f442/US10700376-20200630-D00003.png",
+                "full": "https://patentimages.storage.googleapis.com/e0/0b/59/a35add201cdfcd/US10700376-20200630-D00003.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/d0/a6/fe/8a99f8dc5ed215/US10700376-20200630-D00004.png",
+                "full": "https://patentimages.storage.googleapis.com/23/d4/d3/ed894d1db6cfa9/US10700376-20200630-D00004.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/5f/c1/62/a9e16cd2d12243/US10700376-20200630-D00005.png",
+                "full": "https://patentimages.storage.googleapis.com/24/9d/51/38b91710446ba1/US10700376-20200630-D00005.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/78/41/88/4c7a81b4a8c98a/US10700376-20200630-D00006.png",
+                "full": "https://patentimages.storage.googleapis.com/3d/4d/2d/e408f19e3a5987/US10700376-20200630-D00006.png"
+            }
+        ],
+        "country_status": {
+            "US": "ACTIVE",
+            "CN": "ACTIVE",
+            "DE": "ACTIVE"
+        }
+    },
+    {
+        "position": 5,
+        "rank": 4,
+        "patent_id": "patent/US11532839B2/en",
+        "patent_link": "https://patents.google.com/patent/US11532839B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11532839B2%2Fen",
+        "title": "Non-aqueous secondary battery",
+        "snippet": "BACKGROUND OF THE INVENTION A non-aqueous secondary battery such as a lithium ion battery (LIB) is characterized in a light weight, high energy, and a long service life, and is widely used as a power source of various portable electronic devices. In recent years, applications of the non-aqueous \u2026",
+        "priority_date": "2017-03-17",
+        "filing_date": "2020-02-28",
+        "grant_date": "2022-12-20",
+        "publication_date": "2022-12-20",
+        "inventor": "Naoki Matsuoka",
+        "assignee": "Asahi Kasei Kabushiki Kaisha",
+        "publication_number": "US11532839B2",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/7b/fd/79/429c585b0cbe81/US11532839-20221220-D00000.png",
+        "pdf": "https://patentimages.storage.googleapis.com/77/a8/b9/7dbba980fd64a4/US11532839.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/2c/5b/f9/43de6157365a25/US11532839-20221220-D00000.png",
+                "full": "https://patentimages.storage.googleapis.com/fa/11/cc/9d55577d4232b1/US11532839-20221220-D00000.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/c9/66/b0/42d94875bbab97/US11532839-20221220-D00001.png",
+                "full": "https://patentimages.storage.googleapis.com/db/1d/48/a42c1f87f14a21/US11532839-20221220-D00001.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/98/10/46/b4b9bb5f966022/US11532839-20221220-D00002.png",
+                "full": "https://patentimages.storage.googleapis.com/0d/c0/87/6e320b1542f868/US11532839-20221220-D00002.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/88/2c/d6/1ee27cfe42a8f2/US11532839-20221220-D00003.png",
+                "full": "https://patentimages.storage.googleapis.com/9f/20/51/6cdfaaa712dde4/US11532839-20221220-D00003.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/b8/af/6b/0f7159931a2aaf/US11532839-20221220-D00004.png",
+                "full": "https://patentimages.storage.googleapis.com/3f/86/45/15c41f19d268ed/US11532839-20221220-D00004.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/88/53/2c/36df10760e0e68/US11532839-20221220-D00005.png",
+                "full": "https://patentimages.storage.googleapis.com/e1/ab/0b/1b214eff30d54b/US11532839-20221220-D00005.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/30/e2/15/7a08555354c31f/US11532839-20221220-D00006.png",
+                "full": "https://patentimages.storage.googleapis.com/0f/6b/2b/d2ab7a558fa0b9/US11532839-20221220-D00006.png"
+            }
+        ],
+        "country_status": {
+            "WO": "NOT_ACTIVE",
+            "EP": "ACTIVE",
+            "US": "ACTIVE",
+            "CN": "ACTIVE",
+            "JP": "ACTIVE",
+            "KR": "ACTIVE",
+            "TW": "ACTIVE"
+        }
+    },
+    {
+        "position": 6,
+        "rank": 5,
+        "patent_id": "patent/US11271251B2/en",
+        "patent_link": "https://patents.google.com/patent/US11271251B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11271251B2%2Fen",
+        "title": "Battery cell with anode protective layer",
+        "snippet": "A lithium battery cell having one or more protective layers between the anode current collector and a solid state separator. The protective layers prevent dendrite propagation through the battery cell and improve coulombic efficiency by reducing deleterious side reactions.",
+        "priority_date": "2017-06-09",
+        "filing_date": "2018-06-07",
+        "grant_date": "2022-03-08",
+        "publication_date": "2022-03-08",
+        "inventor": "Ram Subbaraman",
+        "assignee": "Robert Bosch Gmbh",
+        "publication_number": "US11271251B2",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/27/06/16/5e09c2616c0955/US11271251-20220308-D00000.png",
+        "pdf": "https://patentimages.storage.googleapis.com/93/28/6c/0e6b86abb2065d/US11271251.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/3f/79/18/f4c8860a0d1093/US11271251-20220308-D00000.png",
+                "full": "https://patentimages.storage.googleapis.com/c8/3e/b2/9740c267ddc7ab/US11271251-20220308-D00000.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/db/56/79/1fcd0f568207d0/US11271251-20220308-D00001.png",
+                "full": "https://patentimages.storage.googleapis.com/94/30/ba/588e2149fb5666/US11271251-20220308-D00001.png"
+            }
+        ],
+        "country_status": {
+            "WO": "NOT_ACTIVE",
+            "US": "ACTIVE",
+            "CN": "ACTIVE",
+            "DE": "ACTIVE"
+        }
+    },
+    {
+        "position": 7,
+        "rank": 6,
+        "patent_id": "patent/CN114175301B/en",
+        "patent_link": "https://patents.google.com/patent/CN114175301B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114175301B%2Fen",
+        "title": "Secondary batteries, battery packs, electronic devices, electric tools, \u2026",
+        "snippet": "[ Electrode roll body ] In a cylindrical lithium ion battery, a band-shaped positive electrode 21 and a band-shaped negative electrode 22 are spirally wound with a separator 23 interposed therebetween, and are housed in an outer can 11 in a state immersed in an electrolyte. The positive electrode \u2026",
+        "priority_date": "2019-07-30",
+        "filing_date": "2020-07-15",
+        "grant_date": "2024-09-06",
+        "publication_date": "2024-09-06",
+        "inventor": "\u9ad8\u6865\u96c5",
+        "assignee": "\u682a\u5f0f\u4f1a\u793e\u6751\u7530\u5236\u4f5c\u6240",
+        "publication_number": "CN114175301B",
+        "language": "en",
+        "pdf": "https://patentimages.storage.googleapis.com/88/c1/d9/21d0b42998690a/CN114175301B.pdf",
+        "country_status": {
+            "WO": "NOT_ACTIVE",
+            "US": "ACTIVE",
+            "CN": "ACTIVE",
+            "JP": "ACTIVE"
+        }
+    },
+    {
+        "position": 8,
+        "rank": 7,
+        "patent_id": "patent/US11258060B2/en",
+        "patent_link": "https://patents.google.com/patent/US11258060B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11258060B2%2Fen",
+        "title": "Negative electrode plate, secondary battery, battery module, battery pack, and \u2026",
+        "snippet": "The following uses a lithium-ion battery as an example to further describe this application with specific embodiment examples and comparative examples. These embodiment examples are merely intended to describe this application, and this application is not limited to the following embodiment \u2026",
+        "priority_date": "2018-10-31",
+        "filing_date": "2020-12-22",
+        "grant_date": "2022-02-22",
+        "publication_date": "2022-02-22",
+        "inventor": "Jianjun Ma",
+        "assignee": "Contemporary Amperex Technology Co., Limited",
+        "publication_number": "US11258060B2",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/e2/f6/eb/ca6f5af4c092d1/US11258060-20220222-D00000.png",
+        "pdf": "https://patentimages.storage.googleapis.com/d3/58/ef/d220a93e080ee4/US11258060.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/e4/1f/c2/1a03d209ac917f/US11258060-20220222-D00000.png",
+                "full": "https://patentimages.storage.googleapis.com/7b/2d/4f/e74ce95899eeae/US11258060-20220222-D00000.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/d9/91/f0/f645772565624e/US11258060-20220222-D00001.png",
+                "full": "https://patentimages.storage.googleapis.com/f8/7d/43/7bafa31f9e4d96/US11258060-20220222-D00001.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/d4/92/8f/a1786961417715/US11258060-20220222-D00002.png",
+                "full": "https://patentimages.storage.googleapis.com/03/3c/2d/b0450c85c98878/US11258060-20220222-D00002.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/04/05/ec/c2e0b35a208c92/US11258060-20220222-D00003.png",
+                "full": "https://patentimages.storage.googleapis.com/97/8e/31/035ee72b3475b6/US11258060-20220222-D00003.png"
+            }
+        ],
+        "country_status": {
+            "WO": "NOT_ACTIVE",
+            "EP": "ACTIVE",
+            "US": "ACTIVE",
+            "CN": "ACTIVE"
+        }
+    },
+    {
+        "position": 9,
+        "rank": 8,
+        "patent_id": "patent/US10593988B2/en",
+        "patent_link": "https://patents.google.com/patent/US10593988B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10593988B2%2Fen",
+        "title": "Electrochemical cell for lithium-based batteries",
+        "snippet": "at least one non-lithium negative electrode in contact with a lithium ion permeable negative electrode current collector, the at least one non-lithium negative electrode having a first side and an opposing second side, wherein the at least one non-lithium negative electrode is lithium ion permeable \u2026",
+        "priority_date": "2013-06-20",
+        "filing_date": "2015-05-28",
+        "grant_date": "2020-03-17",
+        "publication_date": "2020-03-17",
+        "inventor": "Xingcheng Xiao",
+        "assignee": "GM Global Technology Operations LLC",
+        "publication_number": "US10593988B2",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/08/f1/72/6adbcb65fd073b/US10593988-20200317-D00000.png",
+        "pdf": "https://patentimages.storage.googleapis.com/08/cd/db/072b0b8bba8bfd/US10593988.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/46/3f/3b/6541c34e487244/US10593988-20200317-D00000.png",
+                "full": "https://patentimages.storage.googleapis.com/c0/4a/c1/4cd72b50105075/US10593988-20200317-D00000.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/a7/bd/27/102c8a9639e027/US10593988-20200317-D00001.png",
+                "full": "https://patentimages.storage.googleapis.com/9e/e6/d1/a033da65190852/US10593988-20200317-D00001.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/7e/fc/ed/65dac57c9eec4b/US10593988-20200317-D00002.png",
+                "full": "https://patentimages.storage.googleapis.com/5d/e3/7a/2112adf3e86935/US10593988-20200317-D00002.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/f2/21/7f/605ebae0f68959/US10593988-20200317-D00003.png",
+                "full": "https://patentimages.storage.googleapis.com/f6/d6/0d/5c76ebe4a19e06/US10593988-20200317-D00003.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/f4/ea/b2/8fe1908d277398/US10593988-20200317-D00004.png",
+                "full": "https://patentimages.storage.googleapis.com/2b/82/19/623e56216bbd78/US10593988-20200317-D00004.png"
+            }
+        ],
+        "country_status": {
+            "US": "ACTIVE"
+        }
+    },
+    {
+        "position": 10,
+        "rank": 9,
+        "patent_id": "patent/US12230800B2/en",
+        "patent_link": "https://patents.google.com/patent/US12230800B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12230800B2%2Fen",
+        "title": "Secondary battery and apparatus containing the secondary battery",
+        "snippet": "This application discloses a secondary battery including a positive electrode plate and a negative electrode plate, wherein the positive electrode plate comprises a positive electrode current collector and a positive electrode film disposed on a surface of the positive electrode current collector \u2026",
+        "priority_date": "2020-03-27",
+        "filing_date": "2021-12-10",
+        "grant_date": "2025-02-18",
+        "publication_date": "2025-02-18",
+        "inventor": "Jianjun Ma",
+        "assignee": "Contemporary Amperex Technology (Hong Kong) Limited",
+        "publication_number": "US12230800B2",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/6c/0f/34/5f34e44fadf6ca/US12230800-20250218-D00000.png",
+        "pdf": "https://patentimages.storage.googleapis.com/18/bb/50/ce32ed6ceab5f0/US12230800.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/ff/29/b6/f874f841622674/US12230800-20250218-D00000.png",
+                "full": "https://patentimages.storage.googleapis.com/be/9a/d1/9780dbcd1e2c7a/US12230800-20250218-D00000.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/c8/22/0a/7d7315d3a8379d/US12230800-20250218-D00001.png",
+                "full": "https://patentimages.storage.googleapis.com/b7/1a/fe/c0b41cf5d27414/US12230800-20250218-D00001.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/ac/cf/29/3854846d5180f0/US12230800-20250218-D00002.png",
+                "full": "https://patentimages.storage.googleapis.com/12/75/e5/cb6a9079abade3/US12230800-20250218-D00002.png"
+            }
+        ],
+        "country_status": {
+            "WO": "NOT_ACTIVE",
+            "EP": "ACTIVE",
+            "US": "ACTIVE",
+            "CN": "ACTIVE",
+            "JP": "ACTIVE",
+            "KR": "ACTIVE",
+            "ES": "ACTIVE",
+            "HU": "UNKNOWN",
+            "PL": "UNKNOWN"
+        }
+    }
+]

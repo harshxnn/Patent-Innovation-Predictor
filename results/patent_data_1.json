@@ -1,0 +1,738 @@
+{
+  "search_metadata": {
+    "id": "69acf6ab079a2b99b0c0f50a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RI8e2Q3AOGXmM3-hBM3jsA/69acf6ab079a2b99b0c0f50a.json",
+    "created_at": "2026-03-08 04:10:19 UTC",
+    "processed_at": "2026-03-08 04:10:19 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/EP4207358A3/en",
+    "raw_html_file": "https://serpapi.com/searches/RI8e2Q3AOGXmM3-hBM3jsA/69acf6ab079a2b99b0c0f50a.html",
+    "total_time_taken": 6.11
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/EP4207358A3/en"
+  },
+  "title": "Lithium secondary batteries",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/fd/6d/bc/d854352a610c40/EP4207358A3.pdf",
+  "publication_number": "EP4207358A3",
+  "country": "European Patent Office",
+  "prior_art_keywords": [
+    "lithium secondary",
+    "secondary battery",
+    "ionic",
+    "active material",
+    "provider"
+  ],
+  "prior_art_date": "2022-01-04",
+  "application_number": "EP22215232.4A",
+  "inventors": [
+    {
+      "name": "Szu-Nan Yang",
+      "link": "https://patents.google.com/?inventor=Szu-Nan+Yang",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Szu-Nan+Yang"
+    }
+  ],
+  "assignees": [
+    "Prologium Technology Co Ltd"
+  ],
+  "priority_date": "2022-01-04",
+  "filing_date": "2022-12-20",
+  "publication_date": "2023-07-12",
+  "worldwide_applications": {
+    "2022": [
+      {
+        "filing_date": "2022-12-16",
+        "country_code": "US",
+        "application_number": "US18/083,038",
+        "document_id": "patent/US20230216054A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2022-12-19",
+        "country_code": "TW",
+        "application_number": "TW111148681A",
+        "document_id": "patent/TWI870741B/en",
+        "legal_status_cat": "active"
+      },
+      {
+        "filing_date": "2022-12-20",
+        "country_code": "EP",
+        "application_number": "EP22215232.4A",
+        "document_id": "patent/EP4207358A3/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending",
+        "this_app": true
+      },
+      {
+        "filing_date": "2022-12-20",
+        "country_code": "JP",
+        "application_number": "JP2022203331A",
+        "document_id": "patent/JP7671270B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2022-12-27",
+        "country_code": "CN",
+        "application_number": "CN202211702797.0A",
+        "document_id": "patent/CN116404157A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2022-12-28",
+        "country_code": "KR",
+        "application_number": "KR1020220187549A",
+        "document_id": "patent/KR102913144B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2022-12-20",
+      "title": "Application filed by Prologium Technology Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Prologium Technology Co Ltd"
+    },
+    {
+      "date": "2023-07-05",
+      "title": "Publication of EP4207358A2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/EP4207358A2/en"
+    },
+    {
+      "date": "2023-07-12",
+      "title": "Publication of EP4207358A3",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/EP4207358A3/en"
+    },
+    {
+      "date": "Status",
+      "title": "Pending",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=4207358A3&KC=A3&FT=D"
+    },
+    {
+      "text": "EPO GPI",
+      "link": "https://data.epo.org/gpi/EP4207358A3"
+    },
+    {
+      "text": "EP Register",
+      "link": "https://register.epo.org/espacenet/application?number=EP22215232"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/EP/22215232/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/EP4207358A3"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "H01M4/628",
+      "description": "Inhibitors, e.g. gassing inhibitors, corrosion inhibitors",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/131",
+      "description": "Electrodes based on mixed oxides or hydroxides, or on mixtures of oxides or hydroxides, e.g. LiCoOx",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/62",
+      "description": "Selection of inactive substances as ingredients for active masses, e.g. binders, fillers",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/052",
+      "description": "Li-accumulators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0525",
+      "description": "Rocking-chair batteries, i.e. batteries with lithium insertion or intercalation in both electrodes; Lithium-ion batteries",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/4235",
+      "description": "Safety or regulating additives or arrangements in electrodes, separators or electrolyte",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/133",
+      "description": "Electrodes based on carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/134",
+      "description": "Electrodes based on metals, Si or alloys",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/386",
+      "description": "Silicon or alloys based on silicon",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/505",
+      "description": "Selection of substances as active materials, active masses, active liquids of inorganic oxides or hydroxides of manganese of mixed oxides or hydroxides containing manganese for inserting or intercalating light metals, e.g. LiMn2O4 or LiMn2OxFy",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/525",
+      "description": "Selection of substances as active materials, active masses, active liquids of inorganic oxides or hydroxides of nickel, cobalt or iron of mixed oxides or hydroxides containing iron, cobalt or nickel for inserting or intercalating light metals, e.g. LiNiO2, LiCoO2 or LiCoOxFy",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/587",
+      "description": "Carbonaceous material, e.g. graphite-intercalation compounds or CFx for inserting or intercalating light metals",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2004/027",
+      "description": "Negative electrodes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2004/028",
+      "description": "Positive electrodes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention provides a lithium secondary battery including an ionic provider added to the positive electrode. The ionic provider does not involve in the electrochemical reaction of the lithium secondary battery during charging and discharging. The ionic provider can absorb thermal energy caused by the rising temperature of the lithium secondary battery to release the reactive anionic group. The reactive anionic group will react with the positive active material to reduce the reversibility of the positive active material. Also, the positive active material will become to a lower energy state from a higher energy state with lithium-ion extraction to effectively suppress the thermal runaway of the lithium secondary battery.",
+  "applications_claiming_priority": [
+    {
+      "application_number": "US202263296315P",
+      "priority_date": "2022-01-04",
+      "filing_date": "2022-01-04"
+    },
+    {
+      "application_number": "US18/083,038",
+      "representative_publication": "US20230216054A1",
+      "primary_language": "en",
+      "priority_date": "2022-01-04",
+      "filing_date": "2022-12-16",
+      "title": "Lithium secondary batteries"
+    }
+  ],
+  "family_id": "86558922",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US20060121352A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-18",
+        "publication_date": "2006-06-08",
+        "assignee_original": "Kejha Joseph B",
+        "title": "Cathode compositions and method for lithium-ion cell construction having a lithum compound additive, eliminating irreversible capacity loss",
+        "patent_id": "patent/US20060121352A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060121352A1%2Fen"
+      },
+      {
+        "publication_number": "US20070059602A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-15",
+        "publication_date": "2007-03-15",
+        "assignee_original": "Hideaki Morishima",
+        "title": "Nonaqueous electrolyte battery and battery pack",
+        "patent_id": "patent/US20070059602A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070059602A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP2007220335A",
+        "primary_language": "en",
+        "priority_date": "2006-02-14",
+        "publication_date": "2007-08-30",
+        "assignee_original": "Univ Nagoya",
+        "title": "Lithium ion secondary battery",
+        "patent_id": "patent/JP2007220335A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007220335A%2Fen"
+      },
+      {
+        "publication_number": "JP2013235653A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-02",
+        "publication_date": "2013-11-21",
+        "assignee_original": "Toyota Motor Corp",
+        "title": "Sealed nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2013235653A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013235653A%2Fen"
+      },
+      {
+        "publication_number": "JP6345915B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-07",
+        "publication_date": "2018-06-20",
+        "assignee_original": "\u65ed\u5316\u6210\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte secondary battery separator and nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP6345915B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6345915B2%2Fen"
+      },
+      {
+        "publication_number": "WO2019065151A1",
+        "primary_language": "en",
+        "priority_date": "2017-09-29",
+        "publication_date": "2019-04-04",
+        "assignee_original": "\u30de\u30af\u30bb\u30eb\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous secondary cell, non-aqueous electrolyte used in same, and method for manufacturing non-aqueous secondary cell",
+        "patent_id": "patent/WO2019065151A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019065151A1%2Fen"
+      },
+      {
+        "publication_number": "JP7096981B2",
+        "primary_language": "en",
+        "priority_date": "2019-03-20",
+        "publication_date": "2022-07-07",
+        "assignee_original": "\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e",
+        "title": "Lithium ion secondary battery",
+        "patent_id": "patent/JP7096981B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7096981B2%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "SHEN BIN ET AL: \"Improved electrochemical performance of NaAlO2-coated LiCoO2for lithium-ion batteries\", JOURNAL OF SOLID STATE ELECTROCHEMISTRY, SPRINGER, BERLIN, DE, vol. 21, no. 4, 24 November 2016 (2016-11-24), pages 1195 - 1201, XP036190092, ISSN: 1432-8488, [retrieved on 20161124], DOI: 10.1007/S10008-016-3475-1",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "family_to_family": [
+      {
+        "publication_number": "WO2025209438A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-04-03",
+        "publication_date": "2025-10-09",
+        "assignee_original": "\u8f89\u80fd\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Lithium secondary battery self-poisoning system and poisoned disabled lithium secondary battery",
+        "patent_id": "patent/WO2025209438A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025209438A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_scholar": true,
+      "scholar_id": "895519024496988787",
+      "scholar_authors": "Wang et al.",
+      "publication_date": "2019",
+      "title": "A review of lithium ion battery failure mechanisms and fire prevention strategies",
+      "patent_id": "scholar/895519024496988787",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F895519024496988787"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2020028168A8",
+      "primary_language": "en",
+      "publication_date": "2021-05-20",
+      "title": "Housing for rechargeable batteries",
+      "patent_id": "patent/WO2020028168A8/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020028168A8%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2024153268A3",
+      "primary_language": "en",
+      "publication_date": "2024-09-12",
+      "title": "Battery cell, battery, and electrical device",
+      "patent_id": "patent/WO2024153268A3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024153268A3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2008084818A1",
+      "primary_language": "en",
+      "publication_date": "2008-07-17",
+      "title": "Lithium secondary battery",
+      "patent_id": "patent/WO2008084818A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008084818A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105449263B",
+      "primary_language": "en",
+      "publication_date": "2018-05-22",
+      "title": "Lithium ion secondary battery",
+      "patent_id": "patent/CN105449263B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105449263B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "MY209680A",
+      "primary_language": "en",
+      "publication_date": "2025-07-30",
+      "title": "Cathode and cathode slurry for secondary battery",
+      "patent_id": "patent/MY209680A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMY209680A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101582522A",
+      "primary_language": "en",
+      "publication_date": "2009-11-18",
+      "title": "High rate charge-discharge power lithium battery",
+      "patent_id": "patent/CN101582522A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101582522A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2021258232A8",
+      "primary_language": "en",
+      "publication_date": "2022-04-21",
+      "title": "Preparation method for si/c negative electrode material having elastic shell layer-coated structure for lithium ion battery",
+      "patent_id": "patent/WO2021258232A8/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021258232A8%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105810885A",
+      "primary_language": "en",
+      "publication_date": "2016-07-27",
+      "title": "Positive pole piece and lithium ion battery",
+      "patent_id": "patent/CN105810885A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105810885A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103594735B",
+      "primary_language": "en",
+      "publication_date": "2015-11-25",
+      "title": "A kind of preparation method of lithium titanate lithium ion battery",
+      "patent_id": "patent/CN103594735B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103594735B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110808403A",
+      "primary_language": "en",
+      "publication_date": "2020-02-18",
+      "title": "Overcharge-preventing lithium ion battery",
+      "patent_id": "patent/CN110808403A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110808403A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103280597B",
+      "primary_language": "en",
+      "publication_date": "2017-09-29",
+      "title": "Lithium ion battery",
+      "patent_id": "patent/CN103280597B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103280597B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102263280A",
+      "primary_language": "en",
+      "publication_date": "2011-11-30",
+      "title": "A liquid flow water system rechargeable alkali metal ion battery",
+      "patent_id": "patent/CN102263280A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102263280A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105206868A",
+      "primary_language": "en",
+      "publication_date": "2015-12-30",
+      "title": "A lithium-ion secondary battery for starting an internal combustion engine",
+      "patent_id": "patent/CN105206868A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105206868A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4207358A3",
+      "primary_language": "en",
+      "publication_date": "2023-07-12",
+      "title": "Lithium secondary batteries",
+      "patent_id": "patent/EP4207358A3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4207358A3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103199259B",
+      "primary_language": "en",
+      "publication_date": "2016-01-06",
+      "title": "Lithium rechargeable battery and cathode pole piece thereof",
+      "patent_id": "patent/CN103199259B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103199259B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101414693A",
+      "primary_language": "en",
+      "publication_date": "2009-04-22",
+      "title": "Energy storage battery based on lithium ion conduction and preparation method (thereof)",
+      "patent_id": "patent/CN101414693A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101414693A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1874097028840234440",
+      "scholar_authors": "He et al.",
+      "publication_date": "2009",
+      "title": "Electrochemical characteristics of sulfur composite cathode for reversible lithium storage",
+      "patent_id": "scholar/1874097028840234440",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1874097028840234440"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN212323087U",
+      "primary_language": "en",
+      "publication_date": "2021-01-08",
+      "title": "Cylindrical lithium ion battery",
+      "patent_id": "patent/CN212323087U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN212323087U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101504993A",
+      "primary_language": "en",
+      "publication_date": "2009-08-12",
+      "title": "Lithium iron phosphate flexible packed lithium ionic cell",
+      "patent_id": "patent/CN101504993A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101504993A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103022423A",
+      "primary_language": "en",
+      "publication_date": "2013-04-03",
+      "title": "Method for preparing lithium-ion safe negative pole",
+      "patent_id": "patent/CN103022423A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103022423A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102299375B",
+      "primary_language": "en",
+      "publication_date": "2014-05-28",
+      "title": "Lithium ion power battery and preparation method thereof",
+      "patent_id": "patent/CN102299375B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102299375B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109103353A",
+      "primary_language": "en",
+      "publication_date": "2018-12-28",
+      "title": "It is a kind of to use safe lithium ion battery",
+      "patent_id": "patent/CN109103353A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109103353A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN213304217U",
+      "primary_language": "en",
+      "publication_date": "2021-05-28",
+      "title": "Battery accuse temperature explosion-proof equipment that charges",
+      "patent_id": "patent/CN213304217U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN213304217U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110676514A",
+      "primary_language": "en",
+      "publication_date": "2020-01-10",
+      "title": "Lithium ion battery monomer and formation method thereof",
+      "patent_id": "patent/CN110676514A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110676514A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2023-06-02",
+      "code": "PUAI",
+      "title": "Public reference made under article 153(3) epc to a published international application that has entered the european phase",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ORIGINAL CODE: 0009012"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-02",
+      "code": "STAA",
+      "title": "Information on the status of an ep patent application or granted ep patent",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "STATUS: THE APPLICATION HAS BEEN PUBLISHED"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-09",
+      "code": "PUAL",
+      "title": "Search report despatched",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ORIGINAL CODE: 0009013"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-05",
+      "code": "AK",
+      "title": "Designated contracting states",
+      "attributes": [
+        {
+          "label": "Kind code of ref document",
+          "value": "A2"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC ME MK MT NL NO PL PT RO RS SE SI SK SM TR"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-12",
+      "code": "AK",
+      "title": "Designated contracting states",
+      "attributes": [
+        {
+          "label": "Kind code of ref document",
+          "value": "A3"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC ME MK MT NL NO PL PT RO RS SE SI SK SM TR"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-12",
+      "code": "RIC1",
+      "title": "Information provided on ipc code assigned before grant",
+      "attributes": [
+        {
+          "label": "Ipc",
+          "value": "H01M   4/02        20060101ALN20230607BHEP"
+        },
+        {
+          "label": "Ipc",
+          "value": "H01M  10/42        20060101ALI20230607BHEP"
+        },
+        {
+          "label": "Ipc",
+          "value": "H01M  10/052       20100101ALI20230607BHEP"
+        },
+        {
+          "label": "Ipc",
+          "value": "H01M  10/0525      20100101ALI20230607BHEP"
+        },
+        {
+          "label": "Ipc",
+          "value": "H01M   4/62        20060101ALI20230607BHEP"
+        },
+        {
+          "label": "Ipc",
+          "value": "H01M   4/587       20100101ALI20230607BHEP"
+        },
+        {
+          "label": "Ipc",
+          "value": "H01M   4/525       20100101ALI20230607BHEP"
+        },
+        {
+          "label": "Ipc",
+          "value": "H01M   4/38        20060101ALI20230607BHEP"
+        },
+        {
+          "label": "Ipc",
+          "value": "H01M   4/134       20100101ALI20230607BHEP"
+        },
+        {
+          "label": "Ipc",
+          "value": "H01M   4/133       20100101ALI20230607BHEP"
+        },
+        {
+          "label": "Ipc",
+          "value": "H01M   4/131       20100101AFI20230607BHEP"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-12",
+      "code": "STAA",
+      "title": "Information on the status of an ep patent application or granted ep patent",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "STATUS: REQUEST FOR EXAMINATION WAS MADE"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-14",
+      "code": "17P",
+      "title": "Request for examination filed",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20240111"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-14",
+      "code": "RBV",
+      "title": "Designated contracting states (corrected)",
+      "attributes": [
+        {
+          "label": "Designated state(s)",
+          "value": "AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC ME MK MT NL NO PL PT RO RS SE SI SK SM TR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1039 @@
+{
+  "search_metadata": {
+    "id": "69acf6cfdb99ecd79fe0d97f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/puK3v19rYGjTKKdYiuPJ4w/69acf6cfdb99ecd79fe0d97f.json",
+    "created_at": "2026-03-08 04:10:55 UTC",
+    "processed_at": "2026-03-08 04:10:55 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20010055719A1/en",
+    "raw_html_file": "https://serpapi.com/searches/puK3v19rYGjTKKdYiuPJ4w/69acf6cfdb99ecd79fe0d97f.html",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20010055719A1/en"
+  },
+  "title": "Cell",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/0d/e4/d0/20580ceeab2720/US20010055719A1.pdf",
+  "publication_number": "US20010055719A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "cell",
+    "electrolyte",
+    "recited",
+    "lithium",
+    "gelated"
+  ],
+  "prior_art_date": "1997-06-20",
+  "application_number": "US09/100,404",
+  "inventors": [
+    {
+      "name": "Hiroyuki Akashi",
+      "link": "https://patents.google.com/?inventor=Hiroyuki+Akashi",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Hiroyuki+Akashi"
+    },
+    {
+      "name": "Tadashi Senoo",
+      "link": "https://patents.google.com/?inventor=Tadashi+Senoo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Tadashi+Senoo"
+    },
+    {
+      "name": "Mashio Shibuya",
+      "link": "https://patents.google.com/?inventor=Mashio+Shibuya",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Mashio+Shibuya"
+    },
+    {
+      "name": "Kazuhiro Noda",
+      "link": "https://patents.google.com/?inventor=Kazuhiro+Noda",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kazuhiro+Noda"
+    },
+    {
+      "name": "Shinichiro Yamada",
+      "link": "https://patents.google.com/?inventor=Shinichiro+Yamada",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Shinichiro+Yamada"
+    },
+    {
+      "name": "Toshikazu Yasuda",
+      "link": "https://patents.google.com/?inventor=Toshikazu+Yasuda",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Toshikazu+Yasuda"
+    },
+    {
+      "name": "Koji Sekai",
+      "link": "https://patents.google.com/?inventor=Koji+Sekai",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Koji+Sekai"
+    }
+  ],
+  "assignees": [
+    "Sony Corp"
+  ],
+  "priority_date": "1997-06-20",
+  "filing_date": "1998-06-19",
+  "publication_date": "2001-12-27",
+  "worldwide_applications": {
+    "1998": [
+      {
+        "filing_date": "1998-06-19",
+        "country_code": "KR",
+        "application_number": "KR1019980023137A",
+        "document_id": "patent/KR19990007150A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "1998-06-19",
+        "country_code": "US",
+        "application_number": "US09/100,404",
+        "document_id": "patent/US20010055719A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      },
+      {
+        "filing_date": "1998-06-19",
+        "country_code": "CN",
+        "application_number": "CN98114941A",
+        "document_id": "patent/CN1203462A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "1998-06-19",
+        "country_code": "EP",
+        "application_number": "EP98111341A",
+        "document_id": "patent/EP0892452A3/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "1998-07-10",
+        "country_code": "TW",
+        "application_number": "TW087109476A",
+        "document_id": "patent/TW375843B/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1997-06-20",
+      "title": "Priority claimed from JP16472297A",
+      "type": "external-priority",
+      "document_id": "patent/JP4092742B2/en"
+    },
+    {
+      "date": "1997-06-20",
+      "title": "Priority claimed from JP9164729A",
+      "type": "external-priority",
+      "document_id": "patent/JPH1116579A/en"
+    },
+    {
+      "date": "1998-06-19",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "1998-09-21",
+      "title": "Assigned to SONY CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "SONY CORPORATION",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: SEKAI, KOJI, NODA, KAZUHIRO, YAMADA, SHINCHIRO, YASUDA, TOSHIKAZU, AKASHI, HIROYUKI, SENOO, TADASHI, SHIBUYA, MASHIO"
+      ]
+    },
+    {
+      "date": "2001-12-27",
+      "title": "Publication of US20010055719A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20010055719A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20010055719.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/09100404"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20010055719"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2001055719A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/09100404/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20010055719"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/44/9e/82/5ed402b71573a0/US20010055719A1-drawings-page-2.png",
+    "https://patentimages.storage.googleapis.com/4b/2d/e7/cf233260b3c3fd/US20010055719A1-drawings-page-3.png",
+    "https://patentimages.storage.googleapis.com/23/ef/96/8540cb81234ee9/US20010055719A1-drawings-page-4.png",
+    "https://patentimages.storage.googleapis.com/f0/6f/bb/e246721f42e12d/US20010055719A1-drawings-page-5.png",
+    "https://patentimages.storage.googleapis.com/4c/32/b8/48766dc8dab78d/US20010055719A1-drawings-page-6.png",
+    "https://patentimages.storage.googleapis.com/46/00/18/94dfccff10a501/US20010055719A1-drawings-page-7.png"
+  ],
+  "classifications": [
+    {
+      "code": "H01M10/0566",
+      "description": "Liquid materials",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/056",
+      "description": "Accumulators with non-aqueous electrolyte characterised by the materials used as electrolytes, e.g. mixed inorganic/organic electrolytes",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/05",
+      "description": "Accumulators with non-aqueous electrolyte",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0525",
+      "description": "Rocking-chair batteries, i.e. batteries with lithium insertion or intercalation in both electrodes; Lithium-ion batteries",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0565",
+      "description": "Polymeric materials, e.g. gel-type or solid-type",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0568",
+      "description": "Liquid materials characterised by the solutes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0569",
+      "description": "Liquid materials characterised by the solvents",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/48",
+      "description": "Selection of substances as active materials, active masses, active liquids of inorganic oxides or hydroxides",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/583",
+      "description": "Carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/486",
+      "description": "Organic material",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M6/12",
+      "description": "Dry cells, i.e. cells wherein the electrolyte is rendered non-fluid with flat electrodes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M6/162",
+      "description": "Cells with non-aqueous electrolyte with organic electrolyte characterised by the electrolyte",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M6/164",
+      "description": "Cells with non-aqueous electrolyte with organic electrolyte characterised by the electrolyte by the solvent",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M6/166",
+      "description": "Cells with non-aqueous electrolyte with organic electrolyte characterised by the electrolyte by the solute",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2200/10",
+      "description": "Temperature sensitive devices",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/0037",
+      "description": "Mixture of solvents",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/0085",
+      "description": "Immobilising or gelification of electrolyte",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A lithium cell, having positive and negative electrodes capable of occluding and releasing lithium and a non-aqueous electrolyte. The cell of the present invention includes a positive electrode, a negative electrode and a gelated electrolyte composed of a polyacrylonitrile containing high molecular material, a \u03b3-caprolactone containing non-aqueous solvent and an electrolyte salt mainly comprised of LiPF6, with the content of \u03b3-caprolactone in the gelated electrolyte being 30 mol % or less. With the gelated electrolyte composed of the polyacrylonitrile containing high molecular material, non-aqueous solvent and the electrolyte salt mainly composed of LiPF6, a carbide film is formed on the electrode surface, on contact with the flame, as a result of the carbonization of the high molecular material and the carbonization accelerating operation of LiPF6. This carbide film inhibits inflammation for realizing superior combustion retardant properties.",
+  "description_link": "https://serpapi.com/searches/69acf6cfdb99ecd79fe0d97f/google_patents_details/description.html",
+  "claims": [
+    "1. A cell comprising: \na positive electrode;  a negative electrode;  a gelated electrolyte composed of a high molecular material containing polyacrylonitrile and having solubility parameter of 8 to 15 (cal/cm2)\u00bd, a mixed solvent and an electrolyte salt mainly composed of LiPF6, said mixed solvent being a mixture of ethylene carbonate, propylene carbonate and a third non-aqueous solvent which is at least one selected from the group consisting of dimethyl carbonate, ethyl methyl carbonate, methyl propionate and ethyl propionate.",
+    "2. The cell as recited in  claim 1  containing a mixture of at least one selected from the group consisting of LiN(CF3SO2)2, Li(CF2SO2)3, LiBF4, LiAsF6, LiCF3SO3, LiClO4 and NaClO4 with LiPF6.",
+    "3. The cell as recited in  claim 1  wherein the high molecular material of the gelated electrolyte is 5000 to 500000.",
+    "4. The cell as recited in  claim 1  wherein the negative electrode contains one of metal lithium, a lithium alloy and a material capable of occluding and yielding lithium.",
+    "5. The cell as recited in  claim 4  wherein the material capable of occluding and yielding lithium is a carbonaceous material.",
+    "6. The cell as recited in  claim 1  wherein the positive electrode contains a lithium transition metal compound oxide represented by the general formula LixMO2, where M is one or more transition metal and where 0.05\u2266x\u22661.10.",
+    "7. A cell comprising: \na positive electrode;  a negative electrode;  a gelated electrolyte composed of a high molecular material containing polyacrylonitrile and having solubility parameter of 8 to 15 (cal/cm2)\u00bd, a mixed solvent and an electrolyte salt mainly composed of LiPF6, said mixed solvent being a mixture of ethylene carbonate, \u03b3-butyrolactone and a third non-aqueous solvent which is at least one selected from the group consisting of dimethyl carbonate, ethyl methyl carbonate, methyl propionate and ethyl propionate.",
+    "8. The cell as recited in  claim 7  containing a mixture of at least one selected from the group consisting of LiN(CF3SO2)2, Li(CF2SO2)3, LiBF4, LiAsF6, LiCF3SO3, LiClO4 and NaClO4 with LiPF6.",
+    "9. The cell as recited in  claim 7  wherein the high molecular material of the gelated electrolyte is 5000 to 500000.",
+    "10. The cell as recited in  claim 7  wherein the negative electrode contains one of metal lithium, a lithium alloy and a material capable of occluding and yielding lithium.",
+    "11. The cell as recited in  claim 10  wherein the material capable of occluding and yielding lithium is a carbonaceous material.",
+    "12. The cell as recited in  claim 7  wherein the positive electrode contains a lithium transition metal compound oxide represented by the general formula LixMO2, where M is one or more transition metal and where 0.05\u2266x\u22661.10.",
+    "13. A cell comprising: \na positive electrode;  a negative electrode;  a gelated electrolyte composed of a high molecular material containing polyacrylonitrile and having solubility parameter of 8 to 15 (cal/cm2)\u00bd, a mixed solvent and an electrolyte salt mainly composed of LiPF6, said mixed solvent being a mixture of ethylene carbonate, propylene carbonate, \u03b3-butyrolactone and a fourth non-aqueous solvent which is at least one selected from the group consisting of dimethyl carbonate, ethyl methyl carbonate, methyl propionate and ethyl propionate.",
+    "14. The cell as recited in  claim 13  containing a mixture of at least one selected from the group consisting of LiN(CF3SO2)2, Li(CF2SO2)3, LiBF4, LiAsF6, LiCF3SO3, LiClO4 and NaClO4 with LiPF6.",
+    "15. The cell as recited in  claim 13  wherein the high molecular material of the gelated electrolyte is 5000 to 500000.",
+    "16. The cell as recited in  claim 13  wherein the negative electrode contains one of metal lithium, a lithium alloy and a material capable of occluding and yielding lithium.",
+    "17. The cell as recited in  claim 16  wherein the material capable of occluding and yielding lithium is a carbonaceous material.",
+    "18. The cell as recited in  claim 13  wherein the positive electrode contains a lithium transition metal compound oxide represented by the general formula LixMO2, where M is one or more transition metal and where 0.05\u2266x\u22661.10.",
+    "19. A cell comprising: \na positive electrode;  a negative electrode; and  a gelated electrolyte composed of a high molecular material containing polyacrylonitrile, a non-aqueous solvent containing \u03b3-butyrolactone and an electrolyte salt mainly composed of LiPF6, the content of \u03b3-butyrolactone in said gelated electrolyte being 30 mol % or less.",
+    "20. The cell as recited in  claim 19  wherein the non-aqueous solvent is a mixed solvent of \u03b3-butyrolactone and ethylene carbonate.",
+    "21. The cell as recited in  claim 19  wherein the non-aqueous solvent is a mixed solvent of \u03b3-butyrolactone, ethylene carbonate and propylene carbonate.",
+    "22. The cell as recited in  claim 19  wherein the negative electrode contains one of metal lithium, a lithium alloy and a material capable of occluding and yielding lithium.",
+    "23. The cell as recited in  claim 22  wherein the material capable of occluding and yielding lithium is a carbonaceous material.",
+    "24. The cell as recited in  claim 19  wherein the positive electrode contains a lithium transition metal compound oxide represented by the general formula LixMO2, where M is one or more transition metal and where 0.05\u2266x\u22661.10."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP16472297A",
+      "representative_publication": "JP4092742B2",
+      "primary_language": "en",
+      "priority_date": "1997-06-20",
+      "filing_date": "1997-06-20",
+      "title": "battery"
+    },
+    {
+      "application_number": "JP9164729A",
+      "representative_publication": "JPH1116579A",
+      "primary_language": "en",
+      "priority_date": "1997-06-20",
+      "filing_date": "1997-06-20",
+      "title": "Battery"
+    },
+    {
+      "application_number": "JPP09-164722",
+      "filing_date": "1997-06-20"
+    }
+  ],
+  "family_id": "26489716",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "JPH07169504A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-14",
+        "publication_date": "1995-07-04",
+        "assignee_original": "Matsushita Electric Ind Co Ltd",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JPH07169504A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH07169504A%2Fen"
+      },
+      {
+        "publication_number": "JP3635713B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-01-26",
+        "publication_date": "2005-04-06",
+        "assignee_original": "\u30bd\u30cb\u30fc\u682a\u5f0f\u4f1a\u793e",
+        "title": "Gel electrolyte and battery",
+        "patent_id": "patent/JP3635713B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3635713B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20030190527A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-03",
+        "publication_date": "2003-10-09",
+        "assignee_original": "James Pugh",
+        "title": "Batteries comprising alkali-transition metal phosphates and preferred electrolytes",
+        "patent_id": "patent/US20030190527A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030190527A1%2Fen"
+      },
+      {
+        "publication_number": "US20030190526A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-03",
+        "publication_date": "2003-10-09",
+        "assignee_original": "Saidi Mohammed Y.",
+        "title": "Alkali-transition metal phosphates having a 'valence non-transition element and related electrode active materials",
+        "patent_id": "patent/US20030190526A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030190526A1%2Fen"
+      },
+      {
+        "publication_number": "US20030190528A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-03",
+        "publication_date": "2003-10-09",
+        "assignee_original": "Saidi Mohammed Y.",
+        "title": "Alkali-iron-cobalt phosphates and related electrode active materials",
+        "patent_id": "patent/US20030190528A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030190528A1%2Fen"
+      },
+      {
+        "publication_number": "US20050118513A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-28",
+        "publication_date": "2005-06-02",
+        "assignee_original": "Sony Corporation",
+        "title": "Electrolyte and battery using it",
+        "patent_id": "patent/US20050118513A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050118513A1%2Fen"
+      },
+      {
+        "publication_number": "US20060045335A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-20",
+        "publication_date": "2006-03-02",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Background maintenance of an image sequence",
+        "patent_id": "patent/US20060045335A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060045335A1%2Fen"
+      },
+      {
+        "publication_number": "US20090162755A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-21",
+        "publication_date": "2009-06-25",
+        "assignee_original": "Neudecker Bernd J",
+        "title": "Thin Film Electrolyte for Thin Film Batteries",
+        "patent_id": "patent/US20090162755A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090162755A1%2Fen"
+      },
+      {
+        "publication_number": "US20090311591A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-09",
+        "publication_date": "2009-12-17",
+        "assignee_original": "Snyder Shawn W",
+        "title": "Electrochemical Apparatus With Barrier Layer Protected Substrate",
+        "patent_id": "patent/US20090311591A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090311591A1%2Fen"
+      },
+      {
+        "publication_number": "US20100203377A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-09",
+        "publication_date": "2010-08-12",
+        "assignee_original": "Infinite Power Solutions",
+        "title": "Metal Film Encapsulation",
+        "patent_id": "patent/US20100203377A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100203377A1%2Fen"
+      },
+      {
+        "publication_number": "US7959769B2",
+        "primary_language": "en",
+        "priority_date": "2004-12-08",
+        "publication_date": "2011-06-14",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Deposition of LiCoO2",
+        "patent_id": "patent/US7959769B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7959769B2%2Fen"
+      },
+      {
+        "publication_number": "US8021778B2",
+        "primary_language": "en",
+        "priority_date": "2002-08-09",
+        "publication_date": "2011-09-20",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Electrochemical apparatus with barrier layer protected substrate",
+        "patent_id": "patent/US8021778B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8021778B2%2Fen"
+      },
+      {
+        "publication_number": "US8062708B2",
+        "primary_language": "en",
+        "priority_date": "2006-09-29",
+        "publication_date": "2011-11-22",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Masking of and material constraint for depositing battery layers on flexible substrates",
+        "patent_id": "patent/US8062708B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8062708B2%2Fen"
+      },
+      {
+        "publication_number": "US8197781B2",
+        "primary_language": "en",
+        "priority_date": "2006-11-07",
+        "publication_date": "2012-06-12",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Sputtering target of Li3PO4 and method for producing same",
+        "patent_id": "patent/US8197781B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8197781B2%2Fen"
+      },
+      {
+        "publication_number": "US8236443B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-09",
+        "publication_date": "2012-08-07",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Metal film encapsulation",
+        "patent_id": "patent/US8236443B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8236443B2%2Fen"
+      },
+      {
+        "publication_number": "US8260203B2",
+        "primary_language": "en",
+        "priority_date": "2008-09-12",
+        "publication_date": "2012-09-04",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Energy device with integral conductive surface for data communication via electromagnetic energy and method thereof",
+        "patent_id": "patent/US8260203B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8260203B2%2Fen"
+      },
+      {
+        "publication_number": "US8350519B2",
+        "primary_language": "en",
+        "priority_date": "2008-04-02",
+        "publication_date": "2013-01-08",
+        "assignee_original": "Infinite Power Solutions, Inc",
+        "title": "Passive over/under voltage control and protection for energy storage devices associated with energy harvesting",
+        "patent_id": "patent/US8350519B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8350519B2%2Fen"
+      },
+      {
+        "publication_number": "US8394522B2",
+        "primary_language": "en",
+        "priority_date": "2002-08-09",
+        "publication_date": "2013-03-12",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Robust metal film encapsulation",
+        "patent_id": "patent/US8394522B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8394522B2%2Fen"
+      },
+      {
+        "publication_number": "US8431264B2",
+        "primary_language": "en",
+        "priority_date": "2002-08-09",
+        "publication_date": "2013-04-30",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Hybrid thin-film battery",
+        "patent_id": "patent/US8431264B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8431264B2%2Fen"
+      },
+      {
+        "publication_number": "US8445130B2",
+        "primary_language": "en",
+        "priority_date": "2002-08-09",
+        "publication_date": "2013-05-21",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Hybrid thin-film battery",
+        "patent_id": "patent/US8445130B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8445130B2%2Fen"
+      },
+      {
+        "publication_number": "US8508193B2",
+        "primary_language": "en",
+        "priority_date": "2008-10-08",
+        "publication_date": "2013-08-13",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Environmentally-powered wireless sensor module",
+        "patent_id": "patent/US8508193B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8508193B2%2Fen"
+      },
+      {
+        "publication_number": "US8518581B2",
+        "primary_language": "en",
+        "priority_date": "2008-01-11",
+        "publication_date": "2013-08-27",
+        "assignee_original": "Inifinite Power Solutions, Inc.",
+        "title": "Thin film encapsulation for thin film batteries and other devices",
+        "patent_id": "patent/US8518581B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8518581B2%2Fen"
+      },
+      {
+        "publication_number": "US8599572B2",
+        "primary_language": "en",
+        "priority_date": "2009-09-01",
+        "publication_date": "2013-12-03",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Printed circuit board with integrated thin film battery",
+        "patent_id": "patent/US8599572B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8599572B2%2Fen"
+      },
+      {
+        "publication_number": "TWI419393B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-16",
+        "publication_date": "2013-12-11",
+        "assignee_original": "Infinite Power Solutions Inc",
+        "title": "Battery,device and method for metal film encapsulation",
+        "patent_id": "patent/TWI419393B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI419393B%2Fen"
+      },
+      {
+        "publication_number": "US8636876B2",
+        "primary_language": "en",
+        "priority_date": "2004-12-08",
+        "publication_date": "2014-01-28",
+        "assignee_original": "R. Ernest Demaray",
+        "title": "Deposition of LiCoO2",
+        "patent_id": "patent/US8636876B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8636876B2%2Fen"
+      },
+      {
+        "publication_number": "US8728285B2",
+        "primary_language": "en",
+        "priority_date": "2003-05-23",
+        "publication_date": "2014-05-20",
+        "assignee_original": "Demaray, Llc",
+        "title": "Transparent conductive oxides",
+        "patent_id": "patent/US8728285B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8728285B2%2Fen"
+      },
+      {
+        "publication_number": "US8906523B2",
+        "primary_language": "en",
+        "priority_date": "2008-08-11",
+        "publication_date": "2014-12-09",
+        "assignee_original": "Infinite Power Solutions, Inc.",
+        "title": "Energy device with integral collector surface for electromagnetic energy harvesting and method thereof",
+        "patent_id": "patent/US8906523B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8906523B2%2Fen"
+      },
+      {
+        "publication_number": "WO2015171334A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-08",
+        "publication_date": "2015-11-12",
+        "assignee_original": "Chevron U.S.A. Inc.",
+        "title": "Pulse power drilling fluid and methods of use",
+        "patent_id": "patent/WO2015171334A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015171334A1%2Fen"
+      },
+      {
+        "publication_number": "US9334557B2",
+        "primary_language": "en",
+        "priority_date": "2007-12-21",
+        "publication_date": "2016-05-10",
+        "assignee_original": "Sapurast Research Llc",
+        "title": "Method for sputter targets for electrolyte films",
+        "patent_id": "patent/US9334557B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9334557B2%2Fen"
+      },
+      {
+        "publication_number": "US9634296B2",
+        "primary_language": "en",
+        "priority_date": "2002-08-09",
+        "publication_date": "2017-04-25",
+        "assignee_original": "Sapurast Research Llc",
+        "title": "Thin film battery on an integrated circuit or circuit board and method thereof",
+        "patent_id": "patent/US9634296B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9634296B2%2Fen"
+      },
+      {
+        "publication_number": "CN108281287A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-19",
+        "publication_date": "2018-07-13",
+        "assignee_original": "\u6e56\u5357\u827e\u534e\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Aluminium electrolutic capacitor fire retardant optic-solidified gel polymer electrolyte and preparation method",
+        "patent_id": "patent/CN108281287A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108281287A%2Fen"
+      },
+      {
+        "publication_number": "US10680277B2",
+        "primary_language": "en",
+        "priority_date": "2010-06-07",
+        "publication_date": "2020-06-09",
+        "assignee_original": "Sapurast Research Llc",
+        "title": "Rechargeable, high-density electrochemical device",
+        "patent_id": "patent/US10680277B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10680277B2%2Fen"
+      },
+      {
+        "publication_number": "EP3598557A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-17",
+        "publication_date": "2021-01-06",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "NON-AQUEOUS ELECTROLYTE, NON-AQUEOUS SECONDARY BATTERY, BATTERY PACK AND HYBRID SYSTEM",
+        "patent_id": "patent/EP3598557A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3598557A4%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US6444370B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-20",
+        "publication_date": "2002-09-03",
+        "assignee_original": "Valence Technology, Inc.",
+        "title": "Electrolytes having improved low temperature performance",
+        "patent_id": "patent/US6444370B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6444370B2%2Fen"
+      },
+      {
+        "publication_number": "TW439309B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-01-22",
+        "publication_date": "2001-06-07",
+        "assignee_original": "Toshiba Corp",
+        "title": "Nonaquous electrolyte secondary battery",
+        "patent_id": "patent/TW439309B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTW439309B%2Fen"
+      },
+      {
+        "publication_number": "JP2000243447A",
+        "primary_language": "en",
+        "priority_date": "1999-02-19",
+        "publication_date": "2000-09-08",
+        "assignee_original": "Sony Corp",
+        "title": "Gel electrolyte and gel electrolyte battery",
+        "patent_id": "patent/JP2000243447A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000243447A%2Fen"
+      },
+      {
+        "publication_number": "US20020039688A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-29",
+        "publication_date": "2002-04-04",
+        "assignee_original": "Jeremy Barker",
+        "title": "Lactone solvents for electrochemical cells",
+        "patent_id": "patent/US20020039688A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020039688A1%2Fen"
+      },
+      {
+        "publication_number": "JP4159212B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-12",
+        "publication_date": "2008-10-01",
+        "assignee_original": "\u4e09\u6d0b\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4159212B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4159212B2%2Fen"
+      },
+      {
+        "publication_number": "JP4186463B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-27",
+        "publication_date": "2008-11-26",
+        "assignee_original": "\u30bd\u30cb\u30fc\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4186463B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4186463B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US20010055719A1",
+      "primary_language": "en",
+      "publication_date": "2001-12-27",
+      "title": "Cell",
+      "patent_id": "patent/US20010055719A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010055719A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3242505461758088229",
+      "scholar_authors": "Zhang et al.",
+      "publication_date": "2006",
+      "title": "An improved electrolyte for the LiFePO4 cathode working in a wide temperature range",
+      "patent_id": "scholar/3242505461758088229",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3242505461758088229"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5658686A",
+      "primary_language": "en",
+      "publication_date": "1997-08-19",
+      "title": "Gel electrolyte and cell using same",
+      "patent_id": "patent/US5658686A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5658686A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20090214946A1",
+      "primary_language": "en",
+      "publication_date": "2009-08-27",
+      "title": "Negative electrode for lithium ion battery and lithium ion battery using the same",
+      "patent_id": "patent/US20090214946A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090214946A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7279249B2",
+      "primary_language": "en",
+      "publication_date": "2007-10-09",
+      "title": "Organic electrolytic solution and lithium battery employing the same",
+      "patent_id": "patent/US7279249B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7279249B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7495601441186381200",
+      "scholar_authors": "Huang et al.",
+      "publication_date": "2017",
+      "title": "A facile in situ approach to ion gel based polymer electrolytes for flexible lithium batteries",
+      "patent_id": "scholar/7495601441186381200",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7495601441186381200"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2006038614A1",
+      "primary_language": "en",
+      "publication_date": "2006-04-13",
+      "title": "Nonaqueous electrolyte solution, and nonaqueous electrolyte battery having same",
+      "patent_id": "patent/WO2006038614A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006038614A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8591068849490465675",
+      "scholar_authors": "Zhang et al.",
+      "publication_date": "2003",
+      "title": "Li-ion cell with poly (acrylonitrile-methyl methacrylate)-based gel polymer electrolyte",
+      "patent_id": "scholar/8591068849490465675",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8591068849490465675"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN1971999A",
+      "primary_language": "en",
+      "publication_date": "2007-05-30",
+      "title": "Electrolytic solution, lithium ion battery containing the same and their preparation method",
+      "patent_id": "patent/CN1971999A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1971999A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2010015719A",
+      "primary_language": "en",
+      "publication_date": "2010-01-21",
+      "title": "Nonaqueous electrolyte for battery, and nonaqueous electrolyte secondary battery equipped with it",
+      "patent_id": "patent/JP2010015719A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010015719A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN100505409C",
+      "primary_language": "en",
+      "publication_date": "2009-06-24",
+      "title": "Electrolyte, lithium-ion battery containing the same, and their preparation method",
+      "patent_id": "patent/CN100505409C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN100505409C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2010015717A",
+      "primary_language": "en",
+      "publication_date": "2010-01-21",
+      "title": "Nonaqueous electrolyte for battery, and nonaqueous electrolyte secondary battery equipped with it",
+      "patent_id": "patent/JP2010015717A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010015717A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101277732B1",
+      "primary_language": "en",
+      "publication_date": "2013-06-24",
+      "title": "Cylindrical lithium secondary battery",
+      "patent_id": "patent/KR101277732B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101277732B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8632918B2",
+      "primary_language": "en",
+      "publication_date": "2014-01-21",
+      "title": "Electrolyte formulations for wide temperature lithium ion batteries",
+      "patent_id": "patent/US8632918B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8632918B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3617197B2",
+      "primary_language": "en",
+      "publication_date": "2005-02-02",
+      "title": "Flame retardant gel electrolyte and battery using the same",
+      "patent_id": "patent/JP3617197B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3617197B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4092742B2",
+      "primary_language": "en",
+      "publication_date": "2008-05-28",
+      "title": "battery",
+      "patent_id": "patent/JP4092742B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4092742B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2000058078A",
+      "primary_language": "en",
+      "publication_date": "2000-02-25",
+      "title": "Gel polymer electrolyte and solid electrolyte battery using the same",
+      "patent_id": "patent/JP2000058078A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000058078A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3359389B2",
+      "primary_language": "en",
+      "publication_date": "2002-12-24",
+      "title": "Polymer electrolyte",
+      "patent_id": "patent/JP3359389B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3359389B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH11214037A",
+      "primary_language": "en",
+      "publication_date": "1999-08-06",
+      "title": "Gel electrolyte and battery using the same",
+      "patent_id": "patent/JPH11214037A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH11214037A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH1116579A",
+      "primary_language": "en",
+      "publication_date": "1999-01-22",
+      "title": "Battery",
+      "patent_id": "patent/JPH1116579A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH1116579A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4415800B2",
+      "primary_language": "en",
+      "publication_date": "2010-02-17",
+      "title": "Gel electrolyte and gel electrolyte battery",
+      "patent_id": "patent/JP4415800B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4415800B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14615316211356123655",
+      "scholar_authors": "Zhang et al.",
+      "publication_date": "2003",
+      "title": "Poly (acrylonitrile-methyl methacrylate) as a non-fluorinated binder for the graphite anode of Li-ion batteries",
+      "patent_id": "scholar/14615316211356123655",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14615316211356123655"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3609314309539877254",
+      "scholar_authors": "Gozdz et al.",
+      "publication_date": "1995",
+      "title": "Polymer considerations in rechargeable Lithium ion plastic batteries",
+      "patent_id": "scholar/3609314309539877254",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3609314309539877254"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240021804A1",
+      "primary_language": "en",
+      "publication_date": "2024-01-18",
+      "title": "Energy storage device, silicon anode, and polymer electrolyte",
+      "patent_id": "patent/US20240021804A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240021804A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100407486B1",
+      "primary_language": "en",
+      "publication_date": "2003-12-18",
+      "title": "Organic electrolytic solution and lithium battery employing the same",
+      "patent_id": "patent/KR100407486B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100407486B1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1998-09-21",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SONY CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:AKASHI, HIROYUKI;SENOO, TADASHI;SHIBUYA, MASHIO;AND OTHERS;REEL/FRAME:009470/0711;SIGNING DATES FROM 19980901 TO 19980908"
+        }
+      ]
+    },
+    {
+      "date": "2004-01-12",
+      "code": "STCB",
+      "title": "Information on status: application discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION"
+        }
+      ]
+    }
+  ]
+}

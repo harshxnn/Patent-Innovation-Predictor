@@ -1,0 +1,14 @@
+Analysis failed: Unable to initialize LLM with model 'ollama/gemma:2b'. The model did not match any supported native provider (openai, anthropic, claude, azure, azure_openai, google, gemini, bedrock, aws), and the LiteLLM fallback package is not installed.
+
+To fix this, either:
+  1. Install LiteLLM for broad model support: uv add 'crewai[litellm]'
+or
+pip install litellm
+
+For more details, see: https://docs.crewai.com/en/learn/llm-connections
+
+Troubleshooting tips:
+1. Make sure Ollama is running: 'ollama serve'
+2. Pull a compatible model: 'ollama pull llama3' or 'ollama pull mistral'
+3. Check Ollama logs for errors
+4. Try a simpler model or reduce task complexity

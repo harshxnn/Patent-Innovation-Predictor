@@ -1,0 +1,7 @@
+Analysis failed: Model ollama/gemma:2b is not responding to test prompts.
+
+Troubleshooting tips:
+1. Make sure Ollama is running: 'ollama serve'
+2. Pull a compatible model: 'ollama pull llama3' or 'ollama pull mistral'
+3. Check Ollama logs for errors
+4. Try a simpler model or reduce task complexity
